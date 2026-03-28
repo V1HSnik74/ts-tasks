@@ -1,0 +1,15 @@
+{
+  "name": "task4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/task4.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/task4.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  },
+  "private": true
+}
